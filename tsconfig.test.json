@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "noEmitOnError": true,
+    "noUnusedLocals": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "outDir": "lib",
+    "types": ["jest"],
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*", "test/**/*"],
+  "references": [
+    {
+      "path": "."
+    }
+  ]
+}
