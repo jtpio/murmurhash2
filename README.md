@@ -1,5 +1,7 @@
 # murmurhash2
 
+[![Github Actions Status](https://github.com/jtpio/murmurhash2/workflows/Build/badge.svg)](https://github.com/jtpio/murmurhash2/actions)
+
 MurmurHash2 x86 32-bit implemented in TypeScript, with support for Unicode characters.
 
 ## Install
