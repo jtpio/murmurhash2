@@ -26,3 +26,7 @@ jobs:
     - run: yarn
     - run: yarn run build
     - run: yarn run test
+    - name: Lint
+      run: |
+        yarn run eslint:check
+        yarn run prettier:check
