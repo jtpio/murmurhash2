@@ -16,8 +16,16 @@ npm install murmurhash2
 ```typescript
 import { murmur2 } from 'murmurhash2';
 
-murmur2('Hi there 👋', 12345);
+const hash = murmur2('Hi there 👋', 12345);
+console.log(hash);
+// 1907773090
 ```
+
+## Try it online
+
+➡️ [**murmurhash2.vercel.app**](http://murmurhash2.vercel.app)
+
+[![image](https://user-images.githubusercontent.com/591645/95634227-acc01980-0a89-11eb-966c-8c38cf86a634.png)](http://murmurhash2.vercel.app)
 
 ## Development
 
