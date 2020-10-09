@@ -85,7 +85,7 @@ export default function App() {
     <Container maxWidth="sm">
       <Box my={1}>
         <Typography variant="h4" component="h1" gutterBottom>
-          MurmurHash2 Online
+          MurmurHash2 32-bit Online
         </Typography>
         <MultilineTextFields />
         <ProTip />
