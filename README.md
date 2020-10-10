@@ -25,7 +25,7 @@ console.log(hash);
 
 ➡️ [**murmurhash2.now.sh**](http://murmurhash2.now.sh)
 
-[![image](https://user-images.githubusercontent.com/591645/95634227-acc01980-0a89-11eb-966c-8c38cf86a634.png)](http://murmurhash2.vercel.app)
+[![image](https://user-images.githubusercontent.com/591645/95634227-acc01980-0a89-11eb-966c-8c38cf86a634.png)](http://murmurhash2.now.sh)
 
 ## Development
 
